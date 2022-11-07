@@ -1,0 +1,20 @@
+{
+  "name": "odev3",
+  "version": "1.0.0",
+  "description": "PatikaGraphQLHomework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Kerem",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-yoga/node": "^2.13.13",
+    "graphql": "^16.6.0",
+    "graphql-yoga": "^3.0.0-next.10",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0",
+    "uuidv4": "^6.2.13"
+  }
+}
